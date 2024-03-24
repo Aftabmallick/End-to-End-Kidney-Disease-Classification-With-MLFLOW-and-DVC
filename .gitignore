@@ -1,2 +1,4 @@
 .env
 cnnClassifier.egg-info
+logs
+__pycache__
