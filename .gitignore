@@ -3,3 +3,4 @@ cnnClassifier.egg-info
 logs
 __pycache__
 artifacts
+mlruns
